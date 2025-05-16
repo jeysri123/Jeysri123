@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jeysri-R&show_icons=true&theme=blueberry&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeysri-R&layout=compact&theme=blueberry&title_color=00BFFF&text_color=ffffff&bg_color=0d1117" width="49%"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeysri-R&theme=blueberry&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeysri123-R&theme=blueberry&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="80%"/>
 </div>
 
 ---
