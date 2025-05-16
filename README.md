@@ -54,12 +54,13 @@
 
 ## 🚀 Project Highlights
 
-| Project | Stack | Description |
-|--------|-------|-------------|
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
 | 🌱 **Online Plant Management System** | HTML + CSS | Easy-to-use plant care portal |
-| 🏨 **Hotel Booking Web App** | HTML + CSS | Booking + Admin Panel |
-| 🎯 **Balloon Shooting Game** | AR/VR + Unity | Immersive shooting game with interactivity |
+| 🧠 **Flashcard Quiz App** | Java | Interactive learning through flashcards |
+| 😊 **Daily Mood Tracker** | HTML, CSS, Java | Track mood and visualize patterns |
 | 🩺 **Diabetes Detection ML Model** | Python + ML | HbA1c level prediction using dataset |
+
 
 ---
 
