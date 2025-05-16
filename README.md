@@ -77,7 +77,7 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeysri-R&theme=blue&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeysri123-R&theme=blue&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -85,9 +85,9 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:jeysriyourmail@example.com"><img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jeysri-yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://jeysri.github.io"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="mailto:jeysriviswanathan.com"><img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jeysri123-yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://jeysri123.github.io"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
 <p align="center">
