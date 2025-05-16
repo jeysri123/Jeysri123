@@ -85,8 +85,8 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:jeysriviswanathan.com"><img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jeysri123-yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jeysriviswanathan@gmail.com"><img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jeysri-v-84448725a/"><img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://jeysri123.github.io"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
