@@ -16,11 +16,11 @@
 
 <img align="right" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-- 🎓 Final-year B.Tech IT student from **Karur**
-- 👩‍💻 Passionate about **Web Development**, **UI/UX**, and **AR/VR**
+- 🎓 Pre-final year B.Tech IT student from **Karur**
+- 👩‍💻 Passionate about **Web Development** and **UI/UX**
 - 🌱 Currently learning **DSA**, **C++**, **Java**, and **Spring Boot**
-- 🧠 Built projects in **Plant Management**, **Hotel Booking**, and **Balloon Shooting AR Game**
-- 🏆 Completed NPTEL in **Java**, preparing for Azure certifications
+- 🧠 Built projects in **Flashcard Quiz App**, **Daily mood tracker**, and **Plant Management**
+- 🏆 Completed NPTEL in **Java**
 - 💡 Always exploring, building, and growing 💙
 
 ---
@@ -47,7 +47,6 @@
 ### 🌐 Tech Interests:
 <p>
   <img src="https://img.shields.io/badge/AR%2FVR-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Azure Fundamentals-4169E1?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA-00BFFF?style=for-the-badge" />
 </p>
 
