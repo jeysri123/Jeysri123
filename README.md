@@ -77,7 +77,7 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeysri123-R&theme=blue&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeysri123&theme=blue&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true"/>
 </p>
 
 ---
